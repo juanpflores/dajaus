@@ -1,5 +1,7 @@
 UNA CASA
 
+- Juan Pablo Flores
+
 Este programa pretende diseñar una casa de acuerdo a las especificaciones del proyecto Proyecto_Final_2018_2.pdf y al plano escogido en el archivo plano_casa.jpeg.
 
 El archivo principal lleva el nombre de main.cpp. Contiene la función main, así como los callbacks necesarios para openGL. También comprende directivas incluyendo otros archivos con los que se trabajan.
@@ -17,7 +19,7 @@ El archivo init.cpp contiene las funciones utilizadas por los callbacks. Dentro 
 		left-right arrows -------- Rotate Z
 		up-down arrows -------- Rotate X
 
-El archivo some_functions.cpp llevará las diferentes funciones de dibujo.
+El archivo figura.cpp contiene la clase figura.
 
 dibuja.cpp será el archivo con la función en la que se programará la secuencia de dibujo.
 
