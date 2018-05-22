@@ -18,11 +18,11 @@ void display ( void )   // Creamos la funcion donde se dibuja
 
 
 ////DIBUJA CHICA
-		glTranslatef(-150,-150,-200);
-		dibuja_puntos(chica);
+//		glTranslatef(-150,-150,-200);
+//		dibuja_puntos(chica);
 
 
-//		dibuja_puntos(toilet);
+		dibuja_puntos(toilet);
 
 
 //		dibuja_puntos(rick);

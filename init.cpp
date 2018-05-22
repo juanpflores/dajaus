@@ -67,7 +67,7 @@ void keyboard ( unsigned char key, int x, int y )  // Create Keyboard Function
 			transY -=0.3f;
 			break;
 		case 27:        // Cuando Esc es presionado...
-			exit ( 0 );   // Salimos del programa
+		//	exit(0);   // Salimos del programa
 		break;        
 		default:        // Cualquier otra
 		break;
